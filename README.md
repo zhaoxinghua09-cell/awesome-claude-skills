@@ -33,6 +33,12 @@
   </p>
 </div>
 
+### 🔒 Security & Trust
+
+- **[SkillGate](https://github.com/zhaoxinghua09-cell/skillgate)** — Trust infrastructure for AI agent skills. Security scanner + Trust Score for any skill. Use when you need to audit if a skill is safe to install.
+
+---
+
 A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai, Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more.
 
 ## Give your skills real-world actions
